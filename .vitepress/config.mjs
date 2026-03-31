@@ -7,7 +7,7 @@ export default {
     sidebar: [
       {
         text: "首页",
-        link: "/index.md"
+        link: "/前言.md"
       },
       {
         text: "专业课",
